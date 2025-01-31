@@ -1,6 +1,6 @@
 # Lee
 
-[![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liboqian/)](https://www.linkedin.com/in/liboqian/)
+[![Linkedin Badge](https://img.shields.io/badge/-liboqian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liboqian/)](https://www.linkedin.com/in/liboqian/)
 
 ## Hi 👋
 
