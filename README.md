@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @aurora0543
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Lee
 
-<!---
-aurora0543/aurora0543 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/liboqian/)
+
+## Hi 👋
+
+I'm Lee, I'm a Msc student in Electronical Engineering at university of Glasgow. I'm also a self proclaimed embeded devloper and like photography📷.
+
+- 🔭 I’m currently work on linux software devlopment
+- 💬 Ask me about: tech, memes
+- ⚡ Languages: C/C++, Python
