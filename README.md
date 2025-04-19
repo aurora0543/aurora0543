@@ -1,7 +1,5 @@
 # Lee
-
-[![Linkedin Badge](https://img.shields.io/badge/-liboqian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liboqian/)](https://www.linkedin.com/in/liboqian/)
-
+[Home Page](https://github.com/aurora0543/aurora0543.github.io)
 ## Hi 👋
 
 I'm Lee, I'm a Msc student in Electronical Engineering at university of Glasgow. I'm also a self proclaimed embeded devloper and like photography📷.
