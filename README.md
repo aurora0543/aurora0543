@@ -1,5 +1,3 @@
-# Lee
-[Home Page](https://aurora0543.github.io/)
 ## Hi 👋
 
 I'm Lee, a Doctoral student in Computer Engineering. My research focuses on Edge Intelligence, Transfer Learning, and Defect/Anomaly Detection. I'm also passionate about embedded systems and photography 📷.
